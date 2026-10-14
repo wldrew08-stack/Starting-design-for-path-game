@@ -1,0 +1,24 @@
+Deck: 
+Cards 2-10 are "Infantry. They cost their number (Exm 10 is 10 points). They beat cards lower and lose to higher cards.
+Aces are a instant kill of any card infront of it (On the first row) no matter the number and is dicared right after.
+Face cards are Support. 
+Support: You have a row behind your first row where support cards can be placed. They cost no points and have to abilities: 
++1 point for that round to spend on summons or discard to widen the board by one slot.
+The support cards have no attack and no defence. They take a hit and are discarded.
+
+Rules:
+The front: Each team has three slots to place cards. This is then split into two rows. The first row is for numbered card/aces and is effected by aces.
+The back row is for support cards only. the far back behind this line is the player's health which numbers 5 hit-points.
+
+Draw: Each player draws cards back up to three.
+Summon: Each player starts with ten points at the begining of each round. They can then spend those points on summoning numbered cards or can freely summon a support card.
+When summoned, the cards are put into a slot face down.
+Battle: Cards are flipped upright and the cards in each slot attack the opposing slot. The higher cards win the ingagement and stay on the slot. losing cards are discarded.
+if a slot doesn't have a numbered card infront of it; then the attack is absorbed by the support in that slot. If there is not support card in the slot either; then the player loses one hit-point.
+Reset: start a new round if no player has reached 0 hit-points.
+
+Reasoning: We were confused the wholetime with the original and wanted a easy way to disurne cards. That led to the division of Aces/Numbered/Faces being their classes.
+We made the steps easy and intuitive to anyone familiar with card games. leading to point system and slots. We wanted the game to not feel like a slot machine and a stalemate so we added the support system for flare.
+The ace was made a "Bomb" so players could have some breaking of enemy plans. 
+
+More will be changed in future iterations due to stalemates still acuring and a disire for more intreging gameplay.
